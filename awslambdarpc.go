@@ -38,7 +38,7 @@ import (
 	"time"
 	"fmt"
 
-	"github.com/blmayer/awslambdarpc/client"
+	"github.com/blockademy/awslambdarpc/client"
 )
 
 const help = `awslambdarpc is an utility to make requests to your local AWS Lambda
